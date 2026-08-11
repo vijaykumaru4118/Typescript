@@ -1,1 +1,3 @@
-Hi vijay kumar how are you doing today?
+const message: string = "typescript is working!";
+
+console.log(message);
